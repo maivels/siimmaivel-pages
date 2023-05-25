@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/taskuhääling.html",
+    "items": [
+      "/episodes/0-sissejuhatus.html"
+    ]
+  },
+  {
+    "listing": "/podcast.html",
+    "items": [
+      "/podcast/7-jaan-aru-(ajuteadlane).html",
+      "/podcast/6-ahti-heinla-(starship)-ii-osa.html",
+      "/podcast/5-ahti-heinla-(starship)-i-osa.html",
+      "/podcast/4-aaro-toomela-(neuropsuhholoogia).html",
+      "/podcast/3-tambet-matiisen-(isejuhtivad-autod).html",
+      "/podcast/2-mark-fishel-(tartu-nlp).html",
+      "/podcast/1-ando-saabas-(microsoft).html",
+      "/podcast/0-sissejuhatus.html"
+    ]
+  }
+]
