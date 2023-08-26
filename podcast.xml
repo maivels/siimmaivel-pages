@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Siim Maivel</title>
+<link>https://siimmaivel.ee/podcast.html</link>
+<atom:link href="https://siimmaivel.ee/podcast.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.340</generator>
+<lastBuildDate>Fri, 25 Aug 2023 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>10 - Martin Lumiste (Bolt)</title>
+  <dc:creator>Siim Maivel</dc:creator>
+  <link>https://siimmaivel.ee/podcast/10-martin-lumiste-(bolt).html</link>
+  <description><![CDATA[ 
+
+
+
+<iframe style="border-radius:12px" src="https://podcasters.spotify.com/pod/show/siim-maivel/embed/episodes/10---Martin-Lumiste-Bolt-e28htql" height="102px" width="500px" frameborder="0" scrolling="no">
+</iframe>
+<p>Martin Lumiste töötab <a href="https://bolt.eu/" target="_blank" rel="noopener noreferrer">Bolt</a>is masinõppe inseneride tehnilise juhina. Ta on olnud Boltis andmeteaduse algusest saati ning löönud kaasa mitme olulise masinõppe rakenduse arendamisel, nagu näiteks ooteaegade ennustuse ja dünaamilise hinnastamise mudelid. Lisaks sellele on ta saavutanud kõrgeid kohti maailma tipptasemel konverentside teadusvõistlustel ja näinud kõrvalt, kuidas 5-liikmeline masinõppe osakond on kasvanud 50-liikmeliseks.</p>
+<p>Täna tegeleb ta GPT-mudelite rakendamisega Bolti klienditoe automatiseerimiseks ning toetab kogu andmeteaduse gruppi tehnilistes küsimustes. Ta on üks väheseid inimesi, kellel on täna juba ka praktiline kogemus suurte keelemudelite rakendamisel.</p>
+<p>Vestluse esimeses pooles uurimegi, mis väljakutseid toob pärismaailma kompleksus. Kas tipplahendused eeldavad närvivõrkude kasutamist või on elegantne lahendus ka praktiline?</p>
+<p>Lõpu poole uurime, mis on suurte keelemudelite piirangud ja kas me peaksime olema mures, et ChatGPT’st saab kõikvõimas tehisintellekt, kes inimkonda ohustama hakkab.</p>
+<p>Viited</p>
+<ul>
+<li><a href="https://arxiv.org/abs/2211.00157" target="_blank" rel="noopener noreferrer">Large scale traffic forecasting with gradient boosting, Traffic4cast 2022 challenge</a> (Lumiste &amp; Ilie 2022)</li>
+<li><a href="https://medium.com/bolt-labs/how-we-do-data-science-at-bolt-5cf861ae2578" target="_blank" rel="noopener noreferrer">How we do data science at Bolt</a></li>
+<li><a href="https://mlumiste.com/" target="_blank" rel="noopener noreferrer">mlumiste.com</a></li>
+</ul>
+
+
+
+ ]]></description>
+  <guid>https://siimmaivel.ee/podcast/10-martin-lumiste-(bolt).html</guid>
+  <pubDate>Fri, 25 Aug 2023 21:00:00 GMT</pubDate>
+  <media:content url="https://siimmaivel.ee/podcast/images/martin-lumiste.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>9 - Kristjan Korjus (Pactum)</title>
+  <dc:creator>Siim Maivel</dc:creator>
+  <link>https://siimmaivel.ee/podcast/9-kristjan-korjus-(pactum).html</link>
+  <description><![CDATA[ 
+
+
+
+<iframe style="border-radius:12px" src="https://podcasters.spotify.com/pod/show/siim-maivel/embed/episodes/9---Kristjan-Korjus-Pactum-e25q595" height="102px" width="500px" frameborder="0" scrolling="no">
+</iframe>
+<p>Kristjan Korjus on kaasasutaja ja tehnoloogiajuht ettevõttes <a href="https://pactum.com/" target="_blank" rel="noopener noreferrer">Pactum</a>. Pactumi automatiseeritud lahendus aitab suurtel jaemüüjatel oma tarnijatega paremaid lepingutingimusi läbi rääkida. Kristjan oli oluline inimene ka pakirobotite ettevõttes Starship, millest rääkisin <a href="https://siimmaivel.ee/podcast/5-ahti-heinla-(starship)-i-osa.html" target="_blank" rel="noopener noreferrer">Ahti Heinla</a>ga hiljuti siin samas taskuhäälingus. Kristjan juhtis Starshipis masinnägemise ja masintaju meeskonda. Kristjani laiapõhjaline kogemus masinõppe ja tehisintellekti rakenduste väljatöötamisel aitab nende tehnoloogiate potentsiaali paremini hinnata. Tõde selgub praktikas ja Kristjanil on praktikat palju.</p>
+<p>Vestluse esimeses osas küsin Kristjanilt, kuidas Pactumi lahendus töötab, mis osadest see koosneb ning kuidas masinõpe ja tehisintellekt selles protsessis abiks on.</p>
+<p>Enne tehnoloogiasektorisse astumist töötas Kristjan Tartu Ülikooli <a href="https://neuro.cs.ut.ee/" target="_blank" rel="noopener noreferrer">Arvutusliku Ajuteaduse Labor</a>is. Ta oli selle loomise juures ning tegi ka seal doktoritöö <a href="https://dspace.ut.ee/bitstream/handle/10062/58189/korjus_kristjan.pdf?sequence=1&amp;isAllowed=y" target="_blank" rel="noopener noreferrer">Analyzing EEG Data and Improving Data Partitioning for Machine Learning Algorithms</a>. Vestluse teises osas arutleme Kristjaniga tehisintellekti ja teadvuse teemadel.</p>
+<p>Rääkisin hiljuti siin samas taskuhäälingus <a href="https://siimmaivel.ee/podcast/7-jaan-aru-(ajuteadlane).html" target="_blank" rel="noopener noreferrer">Jaan Aru</a>ga, kes täna oma põhitööna seal laboris inim- ja tehisaju uurib, nii et kui oled huvitatud teadvusest ja ajuteadusest, soovitan seda osa järele kuulata.</p>
+<p>Siin on aga minu vestlus Kristjan Korjusega. Head kaasamõtlemist!</p>
+<p>PS! Kuigi me seda oma vestluses pikalt ei puudutanud, on Kristjan aidanud kirjutada ka poodides müüdud praktilise <a href="https://dspace.ut.ee/handle/10062/39488" target="_blank" rel="noopener noreferrer">Matemaatika Õhtuõpik</a>u:</p>
+<blockquote class="blockquote">
+<p>Matemaatika õhtuõpikuga tahaksime muuta matemaatikat sinu jaoks lihtsamaks ja huvitavamaks. Õhtuõpik toetab koolitunde ja päris õpikut, aga sobib ka kõigile teistele, kes sooviksid matemaatikat iseseisvalt avastada või taasavastada. Iga tähtsama keskkooli ainekavas mainitud teema ning mõiste kohta leiad siit erinevaid intuitiivseid seletusi, aga ka nende ajalugu, huvitavaid fakte ja rakendusi.</p>
+</blockquote>
+
+
+
+ ]]></description>
+  <guid>https://siimmaivel.ee/podcast/9-kristjan-korjus-(pactum).html</guid>
+  <pubDate>Thu, 15 Jun 2023 21:00:00 GMT</pubDate>
+  <media:content url="https://siimmaivel.ee/podcast/images/kristjan-korjus.png" medium="image" type="image/png" height="145" width="144"/>
+</item>
+<item>
+  <title>8 - Jaan Tallinn (eksistentsiaalne risk)</title>
+  <dc:creator>Siim Maivel</dc:creator>
+  <link>https://siimmaivel.ee/podcast/8-jaan-tallinn-(eksistentsiaalne-risk).html</link>
+  <description><![CDATA[ 
+
+
+
+<iframe style="border-radius:12px" src="https://podcasters.spotify.com/pod/show/siim-maivel/embed/episodes/8---Jaan-Tallinn-eksistentsiaalne-risk-e258ic8" height="102px" width="500px" frameborder="0" scrolling="no">
+</iframe>
+<p>Jaan Tallinn on Eesti tehnoloogiasektori elav legend. Ta on Skype’i ja Kazaa üks tehnilisi autoreid, arendanud välja arvutimänge juba üheksakümnendate algusest ning investeerinud maailma tipp tehisintellekti arenevatesse ettevõtetesse Deepmind ja Anthropic. Taustaks, et Deepmind on tänaseks kogu Google’i tehisintellekti arenduskeskus nign Anthropic pakub kõige võimekamat ChatGPT alternatiivi nimega Claude.</p>
+<p>Ka kõigest sellest oleks Jaaniga väga huvitav vestelda, kuid eelnevale lisaks on Jaan ka juba üle kümne aasta tegelenud tehisintellektist tuleneva eksistentsiaalse riskiga. Ta on Massachusettsi Tehnoloogiainstituudi juures asuva <a href="https://futureoflife.org/" target="_blank" rel="noopener noreferrer">⁠Future of Life</a> instituudi kaasasutaja ning nende poolt paar kuud tagasi ilmunud avaliku pöördumise <a href="https://futureoflife.org/open-letter/pause-giant-ai-experiments/" target="_blank" rel="noopener noreferrer">⁠Pause Giant AI Experiments⁠</a> kaasautor. See kiri hoiatab nende samade eksistentsiaalsete riskide eest ja palub tehisintellekti arendavatel ettevõttetel uued arenduste pausile panna. Seda selleks, et inimkond suudaks suurte muutustega kohaneda ning töötada välja lähenemised, mis võimaldaks GPT-4st võimsamaid mudeleid ohjata ja enda kontrolli all hoida.</p>
+<p>See kiri on tekitanud tehisintellekti arendajate seas erinevaid reaktsioone. Ühed ei näe hetkel loodud suurtel keelemudelitel põhinevates assistentides ohtu, kuna need on piiratud võimekusega, ennast mitte edasi arendavad ning eesmärke mitte omavad tööriistad. Teised kardavad, et oht on lähemal, kui me arvata oskame, ning isearenev ja end eksponentsiaalselt võimekamaks muutev tehisintellekt võib võimalikuks saada juba järgmise versiooniga.</p>
+<p>Uurin Jaanilt, mis riske tema näeb ning mis mõju see avalik kiri avaldanud on.</p>
+<p>Kes soovib vestluses välja toodud teemadesse edasi süveneda, soovitan tutvuda Eliezer Yudkowsky <a href="https://www.lesswrong.com/users/eliezer_yudkowsky?sortedBy=topAdjusted" target="_blank" rel="noopener noreferrer">⁠esseedel ja kirjutistega</a>, mis aitavad näha, kuidas üks tehisintellekt võib tõesti inimkonna kas tahtlikult või kogemata hävitada. Kuigi tema vaated on võibolla dramaatilisemad ja radikaalsemad, kui tehnoloogia kogukonna keskmine, on see siiski hariv lugemine ning aitab vähemalt näha, kuidas see teoreetiliselt juhtuda võib.</p>
+<p>Kui keegi soovib tutvuda selle mõtteviisi skeptikutega, tasub lugeda Yann LeCun (Meta), Andrew Ng ja François Chollet (Google) intervjuusid ja arvamuslugusid.</p>
+<p>Lõppsõnas ette loetud lõik ajakirjanik Anton Hanseni esseest “Masinad ja Sõda”, mis ilmus 1919. aasta “Tallinna Teatajas”</p>
+<blockquote class="blockquote">
+<p>Ainult üks väike kartus võiks maad võtta. Te teate, teadus püüab elu ja ka hinge mehaaniliselt seletada, ning kes võiks selle vastu midagi öelda. Ehk on elu tõepoolest ainult mehaanika, tehnika? Aga siis võime ehk lõpuks nii täieliku masina leida, millele elu hing sisse tuleb. See oleks Beeltsebub, kelle meie ise välja kutsunud ja kelle taltsutamiseks meil puudub jõud. Meie eneste valmistatud masinad oleksid meist vägevamad – seda tõendavad juba praegusedki masinad niihästi tööstuses kui ka sõjas – ja meie asemel hakkaksid nemad ilma üle valitsema.</p>
+<p>Masinad kirjutaksid seadusi, jutlustaksid uut usku, kõlblust ja looksid uut kunsti. Masinad palvetaksid, masinad kahetseksid pattu, masinad saaksid õndsaks. Masinad hakkavad altkäemaksu võtma, ja kui elanikud küllalt ei maksa, maksta ei jõua, siis panevad masinad tarbeainete vedamise seisma ning inimesed, kes masinad teinud ja need üleval peavad, nälgivad. Aga ükski ei pane seda imeks neilsinatsil päevil ja nii mõnigi näitab uhkusega masinate peale, öeldes: vaadake, seda oleme kõik meie teinud, see on meie kätetöö. Päikese ja kuu asemel kummardatakse tahmaseid masinaid. Siis on tõsine uus ajajärk, sest siis ei otsitaks enam ei elus, ei kunstis ega usus inimest, vaid ainult masinat.</p>
+</blockquote>
+
+
+
+ ]]></description>
+  <guid>https://siimmaivel.ee/podcast/8-jaan-tallinn-(eksistentsiaalne-risk).html</guid>
+  <pubDate>Sun, 04 Jun 2023 21:00:00 GMT</pubDate>
+  <media:content url="https://siimmaivel.ee/podcast/images/jaan-tallinn.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>7 - Jaan Aru (ajuteadlane)</title>
+  <dc:creator>Siim Maivel</dc:creator>
+  <link>https://siimmaivel.ee/podcast/7-jaan-aru-(ajuteadlane).html</link>
+  <description><![CDATA[ 
+
+
+
+<iframe style="border-radius:12px" src="https://podcasters.spotify.com/pod/show/siim-maivel/embed/episodes/7---Jaan-Aru-ajuteadlane-e23mhml" height="102px" width="500px" frameborder="0" scrolling="no">
+</iframe>
+<p>Seekord vestlen ma aju- ja tehisintellekti professori Jaan Aruga. Jaan on kirjutanud eestikeelseid populaarteaduslikke raamatuid ajust, teadvusest ja loovusest. Tema interdistsiplinaarsed teadmised võimaldavad meil vestelda erinevatel just praegu olulistel teemadel.</p>
+<p>Esimeses pooles proovime analüüsida, mida sarnast on tehisintellektil ja inimese ajul. Kuidas on ajuteadus mõjutanud masinõpet ning kuidas masinõpe aitab meil aju toimimist mõista?</p>
+<p>ChatGPT näol on meile igaühele kättesaadav isiklik õpetaja, kes mitte kunagi ei väsi ja aitab just sulle sobivas vormis ja tempos soovitud teadmised omandada. Vestluse teises pooles uurime, kuidas see mõjutab meie kooliharidust ning milline saab olema meie hariduse omandamine tulevikus?</p>
+<p>Õnneks pole Jaanil ainult teoreetilised teadmised vaid ka praktilised näpunäited, kuidas uusi tehnoloogiaid tervislikult kasutada ning need ennast teenima panna.</p>
+<p>Jaan Aru raamatud:</p>
+<p><a href="https://www.goodreads.com/book/show/60526196-loovusest-ja-logelemisest-nutineedusest-m-ttev-lgatustest-ja-laste-are" target="_blank" rel="noopener noreferrer">Loovusest ja logelemisest. Nutineedusest, mõttevälgatustest ja laste arengust</a> (2022)</p>
+<p><a href="https://www.goodreads.com/book/show/34449073-ajust-ja-arust-unest-teadvusest-tehisintellektist-ja-muustki" target="_blank" rel="noopener noreferrer">Ajust ja arust. Unest, teadvusest, tehisintellektist ja muustki</a> (2017)</p>
+<p>Jaan Aru teadustöö: <a href="https://neuro.cs.ut.ee/" target="_blank" rel="noopener noreferrer">Loomuliku ja Tehisliku Mõistuse Labor</a>, <a href="https://scholar.google.de/citations?user=FvFOzS8AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
+
+
+
+ ]]></description>
+  <guid>https://siimmaivel.ee/podcast/7-jaan-aru-(ajuteadlane).html</guid>
+  <pubDate>Sun, 07 May 2023 21:00:00 GMT</pubDate>
+  <media:content url="https://siimmaivel.ee/podcast/images/jaan-aru.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>6 - Ahti Heinla (Starship) II osa</title>
+  <dc:creator>Siim Maivel</dc:creator>
+  <link>https://siimmaivel.ee/podcast/6-ahti-heinla-(starship)-ii-osa.html</link>
+  <description><![CDATA[ 
+
+
+
+<iframe style="border-radius:12px" src="https://podcasters.spotify.com/pod/show/siim-maivel/embed/episodes/6---Ahti-Heinla-Starship-II-osa-e237qaa" height="102px" width="500px" frameborder="0" scrolling="no">
+</iframe>
+<p>Tegu on teise osaga kaheosalisest vestlusest Ahti Heinlaga Starshipist.</p>
+<p>Ahti ja Starshipi teekond pole olnud sirgjooneline. Alguses tuli lahendada palju suuri probleeme korraga. “Hardware is hard!” nagu öeldakse. Tehnoloogia on vajalik, kuid mitte piisav, et osutada globaalset teenust. Selles osas uurin Ahtilt, kuidas nad oma toodet arendavad ning mida on vaja, et jõuda veelgi enamatele turgudele.</p>
+<p>Lisaks räägib Ahti pisut ka enda kujunemise loost ning kuhu ta oma aja ja tähelepanu täna suunab.</p>
+<p>Kui sattusid Ahtiga vestlust kuula alles sellest osast, soovitan ära kuulata ka eelmine osa, kus rääkisime sellest, kuidas Starshipi robot töötab, sest see aitab paremini aru saada, kuidas tehniline ja äriline kompleksus just selles äris nii tihedalt põimunud on.</p>
+<p>Head kaasamõtlemist!</p>
+<p>Soovitan kuulata ka Andres Küti intervjuud Ahtiga saates memcpy, kus nad räägivad Eesti 90’ IT sektorist ja kuidas programmeerimine ja IT ettevõtted siis välja nägid: <a href="https://edasi.org/36655/podcast-memcpy-kulas-on-ahti-heinla/">https://edasi.org/36655/podcast-memcpy-kulas-on-ahti-heinla/</a></p>
+
+
+
+ ]]></description>
+  <guid>https://siimmaivel.ee/podcast/6-ahti-heinla-(starship)-ii-osa.html</guid>
+  <pubDate>Fri, 28 Apr 2023 21:00:00 GMT</pubDate>
+  <media:content url="https://siimmaivel.ee/podcast/images/ahti-heinla.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>5 - Ahti Heinla (Starship) I osa</title>
+  <dc:creator>Siim Maivel</dc:creator>
+  <link>https://siimmaivel.ee/podcast/5-ahti-heinla-(starship)-i-osa.html</link>
+  <description><![CDATA[ 
+
+
+
+<iframe style="border-radius:12px" src="https://podcasters.spotify.com/pod/show/siim-maivel/embed/episodes/5---Ahti-Heinla-Starship-I-osa-e237lk2" height="102px" width="500px" frameborder="0" scrolling="no">
+</iframe>
+<p>Seekord vestlen ma Ahti Heinlaga, kes on Starshipi pakirobotite asutaja. Ahti on üks Eesti teenekamaid inimesi tehnoloogia valdkonnas ja tegelenud programmeerimisega juba kaheksakümnendate lõpust saati. Ta on olnud Skype’i tehniline arhitekt ja loonud ettevõtte Starship Technologies. Olles ise asutaja ja tegevjuht, on tal – nagu öeldakse – käsi ikka masinas. Ta on algusaegadel kirjutanud suure osa Starshipi robotite tarkavarast, millest osa on kasutuses tänaseni.</p>
+<p>Vestlus on jagatud kaheks osaks. Esimene osas proovin aru saada, kuidas Starshipi pakirobot töötab. Võtame ühe pakiveo tellimuse samm-sammult pulkadeks lahti. Selgitame välja, mida on vaja autonoomse pakiroboti juhtimiseks ning mis komponentidest Starshipi robot koosneb.</p>
+<p>Järgnevas osas uurin Ahtilt, kuidas nad oma toodet arendavad ning mida on vaja, et jõuda veelgi enamatele turgudele. Lisaks räägib Ahti pisut ka enda kujunemise loost ning kuhu ta oma aja ja tähelepanu täna suunab.</p>
+<p>Siin on esimene osa minu vestlusest Ahtiga. Head kaasamõtlemist!</p>
+
+
+
+ ]]></description>
+  <guid>https://siimmaivel.ee/podcast/5-ahti-heinla-(starship)-i-osa.html</guid>
+  <pubDate>Fri, 28 Apr 2023 21:00:00 GMT</pubDate>
+  <media:content url="https://siimmaivel.ee/podcast/images/ahti-heinla.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>4 - Aaro Toomela (neuropsühholoogia)</title>
+  <dc:creator>Siim Maivel</dc:creator>
+  <link>https://siimmaivel.ee/podcast/4-aaro-toomela-(neuropsuhholoogia).html</link>
+  <description><![CDATA[ 
+
+
+
+<iframe style="border-radius:12px" src="https://podcasters.spotify.com/pod/show/siim-maivel/embed/episodes/4---Aaro-Toomela-neuropshholoogia-e22i117" height="102px" width="500px" frameborder="0" scrolling="no">
+</iframe>
+<p>See kord vestlen ma neuropsühholoogia professori Aaro Toomelaga Tallinna Ülikoolist. Tutvusin tema mõtetega raamatutest “Kultuur, Kõne ja Minu Ise”, mis lõi teoreetilise aluse inimpsüühika ja teadvuse tekkeks. Selle järg “Minu Ise Areng” toob hulganisti näiteid selle teooria kinnitamiseks või siis potentsiaalseks ümberlükkamiseks. Professor Toomela teooria pole piiritletud bioloogilise elu kirjeldamisega vaid annab võimaluse uurida ka tehispsüühikat.</p>
+<p>Me teame, kuidas suured keelemudelid on ehitatud ning tänaseks võib igaüks ka ChatGPTga suhelda, kuid meil puudub selge teoreetiline arusaam, miks need mudelid just nii toimivad või kuidas nende tekkelised omadused kujunevad. Psühholoogia valdkonnas on mõnevõrra sarnane olukord: me suudame selgitada nii mõndagi, mis inimese närvisüsteemis toimub, ning psühholoogid suudavad aidata inimestele edukalt oma käitumist muuta, kuid teooriaid, mis jääb nende kahe taseme vahele, on vähe. Õnneks professor Toomelal on üks selline teooria olemas.</p>
+<p>Mitte iga avaldatud teadusartikkel pole sama kvaliteediga ning mitte iga kasutatud meetod ei pruugi järelduste tegemiseks olla sobiv. Tehisintellekti kiire arengu taustal on lihtne omistada sellele võimekusi ja omadusi, mis on ainult näilised. Aaro on andnud ka märkimisväärse panuse teadusfilosoofia edendamiseks ning tema lähenemine teadusele on abiks ka siin.</p>
+<p>Uurime koos Aaroga, kuidas kujuneb inimese psüühika ning kuidas võib kujuneda inimese poolt loodud tehispsüühikaga olend.</p>
+
+
+
+ ]]></description>
+  <guid>https://siimmaivel.ee/podcast/4-aaro-toomela-(neuropsuhholoogia).html</guid>
+  <pubDate>Sat, 15 Apr 2023 21:00:00 GMT</pubDate>
+  <media:content url="https://siimmaivel.ee/podcast/images/aaro-toomela.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>3 - Tambet Matiisen (isejuhtivad autod)</title>
+  <dc:creator>Siim Maivel</dc:creator>
+  <link>https://siimmaivel.ee/podcast/3-tambet-matiisen-(isejuhtivad-autod).html</link>
+  <description><![CDATA[ 
+
+
+
+<iframe style="border-radius:12px" src="https://podcasters.spotify.com/pod/show/siim-maivel/embed/episodes/3---Tambet-Matiisen-isejuhtivad-autod-e21nb57" height="102px" width="500px" frameborder="0" scrolling="no">
+</iframe>
+<p>Kuidas saada auto isejuhtivaks? Kui lähedal me oleme sellele, et igaühel oleks võimalik robottaksot kasutada? Kas ChatGPT aitab meid isejuhtimisele lähemale? Kas tehisintellekti aju saab mahutada kiibile?</p>
+<p>Käisin külas Tambet Matiisenil, kes juhib Tartu Ülikooli Isejuhtivate Sõidukite Laborit ja on viimased neli aastat olnud selle valdkonna arengu juures. Esimesed robottaksod sõidavad juba täna San Franciscos, Phoenixis ja paaris Hiina linnas. Tambeti labor on katsetanud isesjuhtivat autot ka Tartu teedel. Räägime temaga tänavatel sõitmise väljakutsetest ja inimeste kogemustest sellise autosõiduga.</p>
+<p>Kuigi Eesti on väike, leidub meil mitmeid ettevõtteid, mis tegelevad isejuhtiva tehnoloogiaga. Kas meil on kujunemas autonoomsete sõidukite klaster? Räägime ka sellest, milliseid eeliseid võib Eestil olla nende ettevõtete toetamisel ja siia meelitamisel tulevikus.</p>
+<p>Olen viimase nelja aasta jooksul rääkinud Tambetiga mitmel korral isejuhtivate autode tehnoloogiast. Minu liitumine Boltiga langes kokku Tambeti labori loomisega, mida Bolt ka toetas. Tambeti ja tema meeskonna ettekanded on alati pälvinud suurt huvi nii meie ettevõtte sees kui ka avalikel üritustel.</p>
+<p>Nüüd on sinulgi võimalus osa saada sellest arutelust. Head kaasamõtlemist!</p>
+
+
+
+ ]]></description>
+  <guid>https://siimmaivel.ee/podcast/3-tambet-matiisen-(isejuhtivad-autod).html</guid>
+  <pubDate>Mon, 03 Apr 2023 21:00:00 GMT</pubDate>
+  <media:content url="https://siimmaivel.ee/podcast/images/tambet-matiisen.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>2 - Mark Fišel (Tartu NLP)</title>
+  <dc:creator>Siim Maivel</dc:creator>
+  <link>https://siimmaivel.ee/podcast/2-mark-fishel-(tartu-nlp).html</link>
+  <description><![CDATA[ 
+
+
+
+<iframe style="border-radius:12px" src="https://podcasters.spotify.com/pod/show/siim-maivel/embed/episodes/2---Mark-Fiel-Tartu-NLP-e21gr4c" height="102px" width="500px" frameborder="0" scrolling="no">
+</iframe>
+<p>Kuidas ChatGPT päriselt töötab? Mis on sellega seonduvad ohud ja võimalused? Kas ChatGPTl on teadvus? Kas me seisame eksistentsiaalse ohu ees?</p>
+<p>Kui on keegi siin Eestis, kellel on hulgaliselt kogemust ja intuitsiooni, et antud küsimustel arutleda, siis on see Mark Fišel. Mark on Tartu Ülikoolis Keeletehnoloogia Rakendusuuringute keskuse, lühidalt Tartu NLP, juht ja keeletehnoloogia professor. Tema juhitud meeskonnal on hulgaliselt kogemusi keeletehnoloogiate väljaarendamisel.</p>
+<p>Viimaste uudiste valguses, kus teadlased, töösturid ja poliitikud üle maailma on näidanud erinevaid algatusi ChatGPT laadsete arenduste piiramiseks, on oluline, et me peaks selle üle avalikku debatti ja et seal debatis osaleksid ka inimesed, kellel on sügav teadmine antud teemadest. Kui koroona kriisis pakkusid ühiskonnale selgust Irja Lutsar, Karmen Joller ja Arkadi Popov — kõik oma ala eksperdid —, siis siin on minu püüe tuua teieni samasugune diskussioon, aga tehisintellekti teemal. Isegi, kui me ei tea täpselt, mida tulevik toob, siis tahaksin kindlasti teada, mida Mark Fišel sellest mõtleb ja arvab.</p>
+<p>Vestluse teises pooles uurin, mis on eesti keele tulevik maailmas, kus tehisintellekti kõige võimekamad ja mugavamad lahendused arendatakse välja Räniorus või Londonis. Kui ma paneksin karmi kapitalisti müts pähe ja hindaksin ainult äri potentsiaali, ei oleks ilmselt Eesti turg Google ja Facebooki sarnaste jaoks oma väiksuse poolest just kõige prioriteetsem. Aga äkki saavad väikesed keeled, nagu eesti, komi, ja liivi keel hoopis kuidagi keeletehnoloogia arengut rikasta?</p>
+<p>Siin on minu vestlus Markiga. Head kaasamõtlemist!</p>
+
+
+
+ ]]></description>
+  <guid>https://siimmaivel.ee/podcast/2-mark-fishel-(tartu-nlp).html</guid>
+  <pubDate>Fri, 31 Mar 2023 21:00:00 GMT</pubDate>
+  <media:content url="https://siimmaivel.ee/podcast/images/mark-fishel.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>1 - Ando Saabas (Microsoft)</title>
+  <dc:creator>Siim Maivel</dc:creator>
+  <link>https://siimmaivel.ee/podcast/1-ando-saabas-(microsoft).html</link>
+  <description><![CDATA[ 
+
+
+
+<iframe style="border-radius:12px" src="https://podcasters.spotify.com/pod/show/siim-maivel/embed/episodes/1---Ando-Saabas-Microsoft-e21cqcr" height="102px" width="500px" frameborder="0" scrolling="no">
+</iframe>
+<p>Täna vestlen ma Ando Saabasega. Meie tutvus sai alguse juba neli aastat tagasi, kui ma Bolti tööle tulin. Ta oli üks esimestest masinõppe spetsialistidest Boldis ja põhitegelane kogu meie valdkonna rajamisel ettevõtte sees. Kusjuures lisaks tehnilistele oskustele oli tal erakordne võime üles leida olulised probleemid ning need oskuslikult ka ära lahendada. Ta oli see inimene, kelle poole pöörduti kui keerulisemate teemadega jänni jäet või kui sooviti saada inspiratsiooni millegi paremaks tegemisel.</p>
+<p>Mulle isiklikult on ta olnud üks suurimaid eeskujusid. Olen talt korduvalt nõu küsinud ja tihti ka inspiratsiooni saanud.</p>
+<p>Tänaseks on Ando jõudnud Microsofti ja juhib seal ühte masinõppe meeskonda, mis tegeleb süva närvivõrkude abil helist müra eemaldamisega. Kusjuures see eemaldatav müra pole lihtsalt ruumi kaja või vilisev mikker, vaid see võib olla ka kõrvalseisva inimese kõne või köhatus.</p>
+<p>Ando meeskond on saavutanud mõne aastaga erakordseid tulemusi ning nende lahendused on kasutuses eri rakendustes üle Microsofti. Uurin, kuidas nad nii väikese meeskonnaga nii suure edu on saavutanud.</p>
+<p>Viimase aja arengud tehisintellekti võimekuses on kogu maailm raputanud. Vestluse teises pooles küsin Andolt, kuidas tema näeb ChatGPT ja teiste uute tehisintellekti rakenduste mõju meie igapäeva elule. Millised ametid jäävad, millised suure tõenäosusega muutuvad ning millised võivad sootuks kaduda? Mis ennustusi võiks teha tulevikuks ning mis nõu annaks ta noortele, kes võibolla selle valdkonna vastu huvi tunnevad.</p>
+<p>Vestlus tuli küll pikk, kuid liiga põnev, et sealt midagi välja võtta. Loodan, et teil on sama põnev kuulata, kui minul oli Andoga vestelda.</p>
+<p>Head kaasamõtlemist!</p>
+
+
+
+ ]]></description>
+  <guid>https://siimmaivel.ee/podcast/1-ando-saabas-(microsoft).html</guid>
+  <pubDate>Wed, 29 Mar 2023 21:00:00 GMT</pubDate>
+  <media:content url="https://siimmaivel.ee/podcast/images/ando-saabas.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>0 - Sissejuhatus</title>
+  <dc:creator>Siim Maivel</dc:creator>
+  <link>https://siimmaivel.ee/podcast/0-sissejuhatus.html</link>
+  <description><![CDATA[ 
+
+
+
+<iframe style="border-radius:12px" src="https://podcasters.spotify.com/pod/show/siim-maivel/embed/episodes/0---Sissejuhatus-e21cp9m" height="102px" width="500px" frameborder="0" scrolling="no">
+</iframe>
+<p>Tere! Minu nimi on Siim Maivel. Töötan hetkel ettevõttes Bolt ja juhin siin masinõppe valdkonda. Bolt tegleb tegeleb erinevate linna transpordiga seotud äridega. Neid äri suundi on mitu, näiteks sõidujagamine, restoranidest ja poodidest toidu kojuvedu ning elektri tõukerataste ja autode nõudel laenutus. Minu roll täna on kogu meie ligi 40 pealist masinõppe meeskonda juhtida. Lisaks sellele proovin üles leida need probleemid, mida on just masinõppe ja tehisintellektiga mõtekas lahendada.</p>
+<p>Suur äri tekitab palju andmeid ning tehisintellekt ja masinõpe ongi kõige kasulikumad just seal, kus andmeid on palju. Bolti teenused kasutatavad enam kui 500s erinevas linnas Euroopas ja Aafrikas. Kokku on meil üle 100 miljoni kliendi üle maailma.</p>
+<p>Lisaks suurele ärile, on meil ka oma regiooni üks suurimaid masinõppe meeskondi. Mul on au igapäevaselt töötada koos oma valdkonna tõeliste tippudega. Läbi oma töö on mul aja jooksul kujunenud unikaalne perspektiiv. Nagu öeldaks: „Tõde selgub praktikas.” Loodan, et mu kogemused ja erialased teadmised aitavad mind, et oma oma vestluspartneritelt huvitavaid küsimusi küsida.</p>
+<p>Peale seda, kui ChatGPT laiemale avalikusele kättesaadavaks muutus, on maailm püsivalt muutunud. Me alles hakkame aduma, mis võimalusi see inimkonna jaoks loob. Tehisintellekti võimekuse kasv tundub ajas kiirenevat ning selle võimekused arenevad päev päevalt. Vahel võib ka raske leida kvaliteetset infot, et aru saada selle tehnoloogia tegelikust potentsiaalist. Lisaks on veel ka ebaselge, kuid see tehisintellekt meie igapäevaelusid muuta võiks.</p>
+<p>Prooving teieni tuua teadmised eesti masinõppe tippspetsialistidelt. Proovin rääkida inimestega, kellel on sügav arusaamine masinõppe meetoditest ja kes on edukalt suutnud neid ka päriselu probleemide lahendamisel rakendada. Arutame, mis mõju tehisintellekt meie ühiskonnale juba avaldab. Või millist mõju vüib tulevikus avaldadama hakata ning kuidas selle kõigega toime tulla.</p>
+<p>Olen nii mõneski oma töö alases vestluses mõelnud, et ka suuremal hulgal inimestel võiks seda väga huvitav olla pealt kuulata. Nüüd ma proovingi need vestlused siin teieni tuua ning anda oma panuse ühiskondliku arutelu edendamiseks.</p>
+
+
+
+ ]]></description>
+  <guid>https://siimmaivel.ee/podcast/0-sissejuhatus.html</guid>
+  <pubDate>Wed, 29 Mar 2023 21:00:00 GMT</pubDate>
+  <media:content url="https://siimmaivel.ee/podcast/images/siim-maivel.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
