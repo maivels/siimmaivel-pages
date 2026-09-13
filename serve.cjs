@@ -7,7 +7,7 @@ const port = Number(process.argv[2] || 4173);
 if (!Number.isInteger(port) || port < 1 || port > 65535) throw new Error('Invalid port');
 
 // Serve only public website files, even when the checkout contains local environment files.
-const publicFiles = new Set(['index.html', 'podcast.html', 'styles.css', 'site.js', 'profile.jpg']);
+const publicFiles = new Set(['index.html', 'podcast.html', 'styles.css', 'site.js', 'profile.jpg', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png']);
 function addContent(directory) {
   if (!fs.existsSync(path.join(root, directory))) return;
   for (const entry of fs.readdirSync(path.join(root, directory), { withFileTypes: true })) {
@@ -18,7 +18,7 @@ function addContent(directory) {
 }
 addContent('podcast');
 addContent('articles');
-const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp', '.svg': 'image/svg+xml' };
+const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp', '.svg': 'image/svg+xml', '.ico': 'image/x-icon' };
 
 const server = http.createServer((request, response) => {
   if (!['GET', 'HEAD'].includes(request.method)) {

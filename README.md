@@ -9,6 +9,7 @@ A static personal website in Estonian and English. This repository contains both
 - `podcast.html`: recorded conversations overview and listening-platform links.
 - `articles/`: article pages and any accompanying images; create this directory when adding the first article.
 - `profile.jpg`: profile image used in social previews.
+- `favicon.svg`, `favicon.ico`, and `apple-touch-icon.png`: Georgia SM favicon and fallbacks; SVG lettering is outlined and needs no installed font.
 - `styles.css`: shared layout, typography, and light/dark colours.
 - `site.js`: language and theme controls, with preferences saved in the browser.
 - `serve.cjs`: optional local preview server.
