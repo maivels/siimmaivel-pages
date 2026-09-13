@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://siimmaivel.ee/podcast.html</loc>
-    <lastmod>2023-08-26T08:16:32.401Z</lastmod>
-  </url>
-  <url>
-    <loc>https://siimmaivel.ee/index.html</loc>
-    <lastmod>2023-08-26T08:12:54.663Z</lastmod>
-  </url>
-  <url>
-    <loc>https://siimmaivel.ee/podcast/10-martin-lumiste-(bolt).html</loc>
-    <lastmod>2023-08-26T08:16:31.268Z</lastmod>
-  </url>
+  <url><loc>https://siimmaivel.ee/</loc></url>
+  <url><loc>https://siimmaivel.ee/podcast.html</loc></url>
+  <url><loc>https://siimmaivel.ee/podcast/1-ando-saabas-(microsoft).html</loc></url>
+  <url><loc>https://siimmaivel.ee/podcast/10-martin-lumiste-(bolt).html</loc></url>
+  <url><loc>https://siimmaivel.ee/podcast/2-mark-fishel-(tartu-nlp).html</loc></url>
+  <url><loc>https://siimmaivel.ee/podcast/3-tambet-matiisen-(isejuhtivad-autod).html</loc></url>
+  <url><loc>https://siimmaivel.ee/podcast/4-aaro-toomela-(neuropsuhholoogia).html</loc></url>
+  <url><loc>https://siimmaivel.ee/podcast/5-ahti-heinla-(starship)-i-osa.html</loc></url>
+  <url><loc>https://siimmaivel.ee/podcast/6-ahti-heinla-(starship)-ii-osa.html</loc></url>
+  <url><loc>https://siimmaivel.ee/podcast/7-jaan-aru-(ajuteadlane).html</loc></url>
+  <url><loc>https://siimmaivel.ee/podcast/8-jaan-tallinn-(eksistentsiaalne-risk).html</loc></url>
+  <url><loc>https://siimmaivel.ee/podcast/9-kristjan-korjus-(pactum).html</loc></url>
 </urlset>
